@@ -1,0 +1,63 @@
+import pickle
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+from sklearn.metrics import confusion_matrix, classification_report, roc_curve, auc
+
+# Load trained model, PCA, and encoders
+with open("random_forest.pkl", "rb") as f:
+    model = pickle.load(f)
+with open("pca.pkl", "rb") as f:
+    pca = pickle.load(f)
+with open("encoders.pkl", "rb") as f:
+    encoders = pickle.load(f)
+
+# Load dataset for evaluation
+dataset_path = "C:\\Charan\\MoneyProjects\\CSAI\\Cyber Security using AI\\enhanced_mobile_app_data_with_source.csv"
+data = pd.read_csv(dataset_path)
+
+# Preprocess the dataset (encoding categorical variables)
+categorical_columns = [
+    "Permission_Camera", "Permission_Location", "Permission_Contacts",
+    "Permission_Microphone", "Permission_Storage", "Suspicious_Patterns",
+    "Risk_Factor", "Category", "Update_Frequency", "Source_Type"
+]
+for col in categorical_columns:
+    data[col] = encoders[col].transform(data[col])
+
+# Split data into features (X) and target (y)
+X = data.drop(["App_ID", "Is_Malicious"], axis=1)
+y = data["Is_Malicious"]
+
+# Apply PCA for dimensionality reduction
+X_reduced = pca.transform(X)
+
+# Get model predictions
+y_pred = model.predict(X_reduced)
+y_prob = model.predict_proba(X_reduced)[:, 1]
+
+# Generate confusion matrix
+conf_matrix = confusion_matrix(y, y_pred)
+plt.figure(figsize=(6, 4))
+sns.heatmap(conf_matrix, annot=True, fmt='d', cmap='Blues', xticklabels=["Safe", "Malicious"], yticklabels=["Safe", "Malicious"])
+plt.xlabel("Predicted Label")
+plt.ylabel("True Label")
+plt.title("Confusion Matrix")
+plt.show()
+
+# Classification report
+print("Classification Report:")
+print(classification_report(y, y_pred))
+
+# ROC Curve
+fpr, tpr, _ = roc_curve(y, y_prob)
+roc_auc = auc(fpr, tpr)
+
+plt.figure(figsize=(6, 4))
+plt.plot(fpr, tpr, color='blue', label=f'ROC curve (AUC = {roc_auc:.2f})')
+plt.plot([0, 1], [0, 1], linestyle='--', color='gray')
+plt.xlabel("False Positive Rate")
+plt.ylabel("True Positive Rate")
+plt.title("ROC Curve")
+plt.legend(loc="lower right")
+plt.show()

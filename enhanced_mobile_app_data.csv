@@ -1,0 +1,201 @@
+App_ID,Permission_Camera,Permission_Location,Permission_Contacts,Permission_Microphone,Permission_Storage,Network_Speed,API_Calls,Battery_Usage,Data_Accessed,Suspicious_Patterns,Risk_Factor,App_Rating,Category,Update_Frequency,Is_Malicious
+1,Allow,Allow,Not Allow,Not Allow,Allow,2.09,597,29.7,2.25,Yes,Medium,4.7,Gaming,Rarely,0
+2,Not Allow,Allow,Not Allow,Allow,Allow,19.57,321,15.4,13.83,No,Low,3.9,Shopping,Weekly,1
+3,Not Allow,Allow,Not Allow,Allow,Allow,89.41,538,18.8,38.31,No,Low,2.8,Education,Weekly,1
+4,Allow,Allow,Not Allow,Not Allow,Allow,16.49,710,8.6,47.74,Yes,Medium,2.6,Utility,Monthly,0
+5,Allow,Allow,Allow,Allow,Allow,79.08,725,9.2,6.28,Yes,Low,4.8,Social,Rarely,1
+6,Allow,Not Allow,Not Allow,Allow,Not Allow,83.88,163,6.5,43.9,Yes,Medium,3.8,Social,Monthly,0
+7,Not Allow,Allow,Allow,Allow,Not Allow,99.0,952,27.2,3.38,Yes,Medium,2.2,Gaming,Weekly,0
+8,Not Allow,Not Allow,Allow,Allow,Not Allow,40.54,807,22.3,12.91,No,Medium,1.2,Social,Weekly,1
+9,Not Allow,Allow,Not Allow,Allow,Allow,34.59,523,27.6,8.48,No,Low,4.0,Education,Weekly,0
+10,Not Allow,Allow,Allow,Not Allow,Not Allow,27.46,563,7.0,6.85,Yes,Medium,3.3,Gaming,Monthly,1
+11,Allow,Allow,Allow,Allow,Allow,52.45,961,26.2,30.48,Yes,High,2.1,Social,Rarely,0
+12,Not Allow,Allow,Allow,Not Allow,Not Allow,6.2,443,23.1,34.09,No,Medium,3.4,Gaming,Weekly,1
+13,Not Allow,Allow,Allow,Not Allow,Allow,1.57,116,27.8,28.23,No,Low,1.2,Utility,Weekly,1
+14,Allow,Allow,Not Allow,Not Allow,Allow,38.0,145,7.6,48.34,No,High,4.4,Education,Rarely,0
+15,Not Allow,Not Allow,Allow,Not Allow,Not Allow,47.73,142,17.9,7.92,Yes,Medium,3.3,Gaming,Rarely,0
+16,Allow,Allow,Not Allow,Not Allow,Not Allow,95.02,180,15.4,20.43,Yes,High,1.9,Education,Rarely,1
+17,Not Allow,Not Allow,Not Allow,Allow,Allow,49.31,554,6.5,6.83,No,High,2.5,Social,Weekly,0
+18,Allow,Not Allow,Allow,Not Allow,Allow,55.29,676,26.8,46.04,No,Medium,1.3,Gaming,Monthly,0
+19,Not Allow,Allow,Not Allow,Allow,Not Allow,55.1,280,19.9,49.01,Yes,Medium,4.2,Gaming,Weekly,1
+20,Allow,Not Allow,Not Allow,Not Allow,Not Allow,69.38,838,11.9,17.23,No,Medium,4.5,Utility,Monthly,0
+21,Allow,Allow,Not Allow,Not Allow,Allow,62.24,618,21.1,35.58,No,Medium,4.3,Education,Monthly,1
+22,Not Allow,Not Allow,Allow,Allow,Not Allow,90.0,537,15.0,23.93,No,Low,1.8,Social,Weekly,1
+23,Not Allow,Not Allow,Not Allow,Allow,Allow,87.83,400,20.1,42.92,Yes,High,2.0,Education,Monthly,1
+24,Allow,Allow,Not Allow,Not Allow,Not Allow,23.52,412,12.4,41.82,No,High,3.5,Gaming,Rarely,1
+25,Not Allow,Not Allow,Allow,Allow,Allow,92.13,978,29.0,40.86,No,High,3.6,Gaming,Rarely,0
+26,Not Allow,Not Allow,Not Allow,Allow,Not Allow,26.17,870,19.6,31.82,Yes,Low,3.5,Shopping,Weekly,1
+27,Allow,Allow,Allow,Allow,Allow,30.06,204,20.6,4.76,Yes,Medium,2.6,Gaming,Rarely,1
+28,Not Allow,Allow,Not Allow,Allow,Not Allow,41.02,157,24.5,29.83,No,High,1.6,Utility,Weekly,0
+29,Allow,Not Allow,Allow,Not Allow,Not Allow,84.65,825,27.5,35.28,No,Low,1.5,Utility,Weekly,0
+30,Not Allow,Not Allow,Not Allow,Not Allow,Allow,42.86,258,13.6,45.54,No,Medium,4.1,Gaming,Rarely,0
+31,Not Allow,Allow,Not Allow,Not Allow,Allow,26.52,809,16.9,7.78,No,High,3.6,Utility,Monthly,1
+32,Allow,Not Allow,Allow,Allow,Allow,37.03,697,6.5,15.22,No,Low,4.6,Gaming,Weekly,0
+33,Allow,Not Allow,Allow,Allow,Allow,36.12,863,23.8,11.47,Yes,Medium,3.1,Education,Rarely,1
+34,Not Allow,Not Allow,Not Allow,Not Allow,Not Allow,46.71,361,25.3,2.28,No,Medium,4.7,Utility,Monthly,1
+35,Allow,Not Allow,Allow,Allow,Allow,17.54,827,6.9,34.09,Yes,Low,2.4,Utility,Monthly,0
+36,Allow,Allow,Not Allow,Not Allow,Not Allow,8.0,639,24.7,38.7,No,High,4.8,Education,Monthly,1
+37,Allow,Not Allow,Not Allow,Not Allow,Not Allow,93.61,243,16.1,11.76,Yes,High,4.6,Utility,Rarely,1
+38,Not Allow,Allow,Allow,Not Allow,Allow,81.49,420,18.6,44.73,Yes,High,3.7,Shopping,Weekly,1
+39,Not Allow,Not Allow,Not Allow,Allow,Allow,24.21,87,19.4,32.01,Yes,Medium,4.0,Shopping,Weekly,1
+40,Not Allow,Allow,Not Allow,Allow,Not Allow,48.32,899,26.9,30.7,Yes,High,4.6,Utility,Monthly,0
+41,Allow,Allow,Not Allow,Not Allow,Allow,84.4,873,18.3,3.59,Yes,Medium,3.9,Social,Rarely,0
+42,Not Allow,Allow,Allow,Not Allow,Not Allow,28.25,61,25.8,9.08,No,Medium,4.8,Utility,Weekly,0
+43,Not Allow,Allow,Allow,Allow,Not Allow,77.41,121,27.6,45.76,Yes,High,2.5,Education,Rarely,0
+44,Not Allow,Allow,Allow,Allow,Not Allow,28.25,888,11.0,31.38,No,Medium,1.8,Education,Weekly,0
+45,Not Allow,Allow,Allow,Allow,Allow,33.03,611,7.7,48.59,No,High,3.3,Utility,Weekly,0
+46,Not Allow,Allow,Allow,Not Allow,Not Allow,75.77,829,11.2,19.98,No,Medium,1.3,Gaming,Weekly,1
+47,Allow,Not Allow,Not Allow,Not Allow,Not Allow,60.25,315,10.0,12.77,No,Medium,1.8,Education,Rarely,1
+48,Allow,Allow,Allow,Allow,Not Allow,29.99,636,12.7,7.78,No,Medium,3.6,Utility,Rarely,0
+49,Allow,Not Allow,Allow,Allow,Allow,70.86,686,12.1,23.09,Yes,Low,5.0,Utility,Rarely,0
+50,Not Allow,Not Allow,Not Allow,Not Allow,Not Allow,66.83,569,26.9,13.19,No,Medium,4.6,Gaming,Weekly,0
+51,Not Allow,Not Allow,Not Allow,Allow,Not Allow,33.81,113,18.8,15.32,Yes,Medium,3.6,Gaming,Rarely,1
+52,Not Allow,Allow,Not Allow,Allow,Allow,55.57,442,21.4,27.46,No,Low,2.5,Social,Weekly,0
+53,Allow,Not Allow,Not Allow,Not Allow,Allow,24.47,820,5.4,26.41,Yes,High,1.9,Gaming,Weekly,1
+54,Allow,Allow,Allow,Allow,Not Allow,13.13,959,8.0,46.01,Yes,High,4.0,Shopping,Monthly,0
+55,Allow,Allow,Allow,Allow,Allow,3.73,332,24.3,39.63,No,High,1.7,Education,Weekly,1
+56,Allow,Allow,Not Allow,Not Allow,Allow,98.82,814,8.3,46.64,Yes,Low,3.9,Utility,Monthly,1
+57,Allow,Not Allow,Not Allow,Not Allow,Allow,10.67,136,9.1,28.89,No,High,4.1,Gaming,Monthly,1
+58,Allow,Allow,Allow,Allow,Not Allow,39.8,487,7.7,4.41,Yes,High,2.2,Education,Weekly,0
+59,Allow,Allow,Not Allow,Not Allow,Not Allow,93.14,936,5.9,28.26,Yes,Medium,1.1,Social,Monthly,1
+60,Allow,Not Allow,Not Allow,Not Allow,Not Allow,8.95,639,10.5,28.19,Yes,Low,4.5,Shopping,Weekly,0
+61,Allow,Not Allow,Not Allow,Allow,Not Allow,45.63,304,10.2,42.2,Yes,Low,1.2,Education,Monthly,1
+62,Not Allow,Not Allow,Allow,Allow,Not Allow,27.28,69,19.4,11.43,No,Medium,4.5,Gaming,Rarely,1
+63,Allow,Allow,Not Allow,Allow,Not Allow,2.78,197,16.7,38.59,No,High,3.7,Social,Rarely,0
+64,Not Allow,Not Allow,Not Allow,Allow,Allow,60.14,937,5.8,1.24,Yes,Medium,3.5,Education,Weekly,0
+65,Allow,Allow,Not Allow,Not Allow,Not Allow,52.01,77,27.8,34.7,No,Medium,4.8,Social,Monthly,1
+66,Allow,Allow,Allow,Not Allow,Allow,64.33,116,6.2,12.43,Yes,Low,3.1,Gaming,Weekly,1
+67,Not Allow,Not Allow,Allow,Allow,Not Allow,80.03,196,14.8,15.82,No,Medium,4.4,Education,Weekly,1
+68,Allow,Not Allow,Allow,Allow,Allow,6.36,528,15.7,3.71,No,High,4.4,Utility,Monthly,1
+69,Not Allow,Not Allow,Not Allow,Allow,Allow,2.95,271,8.3,22.18,No,High,4.8,Social,Rarely,1
+70,Allow,Allow,Not Allow,Allow,Allow,2.8,170,21.2,35.29,Yes,Low,3.6,Education,Weekly,0
+71,Allow,Not Allow,Not Allow,Not Allow,Allow,85.09,357,26.9,5.69,No,High,3.7,Education,Monthly,0
+72,Not Allow,Allow,Allow,Not Allow,Allow,49.57,907,8.7,18.0,No,High,1.8,Shopping,Weekly,0
+73,Allow,Allow,Allow,Not Allow,Not Allow,71.3,880,18.0,7.78,No,High,4.5,Education,Rarely,0
+74,Not Allow,Allow,Allow,Not Allow,Allow,21.51,326,22.5,32.3,Yes,Low,1.4,Gaming,Rarely,0
+75,Allow,Allow,Allow,Not Allow,Not Allow,84.43,116,17.6,42.63,Yes,Medium,4.6,Shopping,Rarely,0
+76,Not Allow,Allow,Allow,Allow,Not Allow,77.42,263,7.2,23.42,Yes,Low,1.6,Education,Rarely,1
+77,Not Allow,Not Allow,Not Allow,Not Allow,Allow,71.84,713,18.9,28.44,No,Low,2.4,Education,Monthly,1
+78,Not Allow,Not Allow,Not Allow,Not Allow,Not Allow,88.95,587,22.9,47.13,No,High,2.5,Social,Rarely,0
+79,Allow,Not Allow,Allow,Allow,Allow,32.14,819,15.8,22.99,No,High,3.8,Shopping,Rarely,0
+80,Allow,Not Allow,Allow,Not Allow,Not Allow,62.14,908,19.1,29.67,No,High,4.3,Shopping,Monthly,0
+81,Allow,Allow,Not Allow,Not Allow,Allow,3.85,846,23.7,28.99,No,Medium,1.2,Gaming,Rarely,1
+82,Not Allow,Allow,Not Allow,Allow,Not Allow,55.56,680,7.6,42.52,Yes,Low,4.2,Social,Monthly,0
+83,Not Allow,Not Allow,Not Allow,Allow,Allow,67.69,244,13.1,38.91,No,High,1.1,Education,Rarely,1
+84,Not Allow,Not Allow,Not Allow,Allow,Allow,25.93,614,25.6,36.46,Yes,Medium,2.6,Social,Weekly,1
+85,Not Allow,Not Allow,Not Allow,Not Allow,Not Allow,88.92,773,26.0,13.49,Yes,Low,2.2,Shopping,Monthly,0
+86,Not Allow,Allow,Not Allow,Not Allow,Allow,56.5,878,7.3,45.16,No,Low,5.0,Utility,Rarely,0
+87,Not Allow,Not Allow,Allow,Allow,Not Allow,9.12,683,6.2,38.12,Yes,Low,1.2,Social,Weekly,0
+88,Not Allow,Not Allow,Allow,Not Allow,Not Allow,4.56,373,9.8,41.81,Yes,Medium,3.8,Shopping,Monthly,0
+89,Allow,Not Allow,Allow,Allow,Allow,86.7,493,19.3,39.37,Yes,High,1.1,Social,Weekly,1
+90,Allow,Allow,Not Allow,Not Allow,Allow,74.93,726,13.6,36.54,Yes,Medium,3.0,Social,Weekly,0
+91,Allow,Allow,Not Allow,Not Allow,Not Allow,45.26,944,13.7,15.06,Yes,Medium,3.5,Social,Weekly,1
+92,Allow,Not Allow,Allow,Not Allow,Not Allow,20.08,780,27.4,12.77,Yes,Medium,3.9,Shopping,Weekly,0
+93,Not Allow,Allow,Not Allow,Not Allow,Allow,18.85,234,21.8,24.76,Yes,Medium,5.0,Education,Weekly,1
+94,Allow,Not Allow,Not Allow,Allow,Not Allow,60.92,261,8.4,40.58,No,High,3.3,Social,Weekly,0
+95,Allow,Allow,Not Allow,Not Allow,Not Allow,83.61,520,19.8,34.88,Yes,Low,4.2,Shopping,Weekly,0
+96,Not Allow,Not Allow,Allow,Allow,Not Allow,31.71,741,20.4,14.7,Yes,Medium,2.1,Gaming,Weekly,1
+97,Not Allow,Not Allow,Allow,Not Allow,Not Allow,26.2,324,10.5,32.84,Yes,High,3.9,Utility,Weekly,1
+98,Not Allow,Not Allow,Allow,Not Allow,Not Allow,73.16,380,9.9,48.19,No,High,3.7,Social,Weekly,0
+99,Not Allow,Allow,Not Allow,Allow,Allow,35.55,96,19.2,37.55,No,Medium,1.8,Social,Weekly,0
+100,Allow,Allow,Not Allow,Allow,Not Allow,29.37,546,16.9,16.6,Yes,Medium,4.0,Gaming,Rarely,1
+101,Not Allow,Allow,Allow,Not Allow,Not Allow,65.06,633,16.7,27.56,Yes,Low,4.9,Shopping,Weekly,0
+102,Not Allow,Allow,Not Allow,Allow,Allow,32.7,66,5.5,39.41,Yes,Medium,2.7,Education,Monthly,1
+103,Allow,Allow,Not Allow,Allow,Not Allow,56.92,981,15.5,39.76,No,Low,2.3,Social,Rarely,0
+104,Not Allow,Not Allow,Allow,Allow,Not Allow,2.34,603,24.7,45.36,No,Medium,4.6,Gaming,Monthly,1
+105,Allow,Not Allow,Not Allow,Not Allow,Allow,23.06,803,16.5,44.7,No,Low,4.0,Shopping,Rarely,1
+106,Allow,Not Allow,Allow,Allow,Not Allow,28.81,945,5.2,23.27,No,High,4.4,Shopping,Rarely,0
+107,Not Allow,Allow,Allow,Allow,Not Allow,8.9,666,25.7,22.8,Yes,Medium,5.0,Utility,Rarely,1
+108,Allow,Not Allow,Allow,Allow,Not Allow,35.54,246,13.8,5.21,Yes,Low,4.2,Social,Weekly,0
+109,Allow,Not Allow,Not Allow,Allow,Not Allow,45.85,362,20.8,22.91,Yes,High,4.3,Gaming,Monthly,0
+110,Allow,Allow,Not Allow,Not Allow,Not Allow,76.37,607,16.3,12.9,Yes,High,4.2,Utility,Monthly,0
+111,Allow,Allow,Not Allow,Not Allow,Not Allow,53.66,197,5.6,32.89,Yes,High,2.8,Social,Monthly,0
+112,Allow,Allow,Not Allow,Allow,Allow,8.78,256,23.3,46.43,No,Medium,1.3,Education,Weekly,1
+113,Allow,Not Allow,Not Allow,Allow,Allow,73.28,725,26.8,32.7,No,High,3.2,Utility,Monthly,0
+114,Not Allow,Not Allow,Allow,Not Allow,Allow,70.6,614,28.4,33.95,Yes,High,2.8,Utility,Weekly,1
+115,Allow,Not Allow,Not Allow,Allow,Allow,71.88,650,23.4,5.78,Yes,High,2.0,Social,Rarely,0
+116,Not Allow,Not Allow,Allow,Allow,Not Allow,52.3,247,8.4,1.6,Yes,High,2.6,Shopping,Rarely,0
+117,Allow,Not Allow,Allow,Not Allow,Allow,85.28,461,13.8,32.15,Yes,High,1.6,Shopping,Weekly,1
+118,Not Allow,Not Allow,Allow,Not Allow,Not Allow,96.27,469,22.9,39.1,Yes,Medium,3.7,Shopping,Monthly,1
+119,Not Allow,Not Allow,Not Allow,Allow,Not Allow,64.78,961,20.4,31.85,No,High,4.4,Shopping,Rarely,0
+120,Allow,Allow,Allow,Not Allow,Allow,90.97,529,9.6,9.18,Yes,High,5.0,Gaming,Monthly,1
+121,Allow,Allow,Allow,Allow,Allow,40.04,66,21.0,30.07,No,Medium,4.7,Social,Weekly,1
+122,Not Allow,Allow,Allow,Allow,Not Allow,11.88,815,15.4,4.0,No,Medium,2.3,Gaming,Weekly,0
+123,Not Allow,Not Allow,Allow,Allow,Allow,34.98,549,19.1,29.14,Yes,High,3.7,Social,Monthly,0
+124,Allow,Not Allow,Not Allow,Allow,Not Allow,9.61,724,5.7,42.16,Yes,Low,1.9,Social,Rarely,1
+125,Allow,Allow,Not Allow,Not Allow,Not Allow,7.72,779,9.7,2.7,Yes,Medium,2.1,Gaming,Rarely,0
+126,Not Allow,Allow,Allow,Not Allow,Not Allow,73.66,967,9.5,40.51,No,High,1.6,Social,Rarely,1
+127,Allow,Not Allow,Allow,Not Allow,Allow,61.04,413,25.2,13.98,No,High,2.9,Gaming,Monthly,1
+128,Not Allow,Not Allow,Not Allow,Not Allow,Not Allow,55.96,240,18.8,31.09,No,High,3.6,Education,Monthly,1
+129,Not Allow,Allow,Allow,Allow,Allow,38.02,771,8.0,7.73,Yes,High,1.3,Utility,Weekly,1
+130,Allow,Allow,Not Allow,Allow,Not Allow,73.63,409,25.6,41.26,No,High,4.4,Shopping,Monthly,0
+131,Allow,Allow,Not Allow,Allow,Allow,54.31,50,21.7,19.59,No,High,1.6,Shopping,Weekly,0
+132,Not Allow,Allow,Allow,Not Allow,Allow,73.61,217,19.6,25.81,Yes,Low,3.5,Shopping,Monthly,0
+133,Allow,Allow,Allow,Allow,Not Allow,73.68,478,10.5,42.07,No,High,2.6,Social,Weekly,0
+134,Not Allow,Allow,Not Allow,Not Allow,Allow,93.5,530,6.4,2.74,Yes,Low,2.7,Utility,Monthly,0
+135,Allow,Allow,Not Allow,Not Allow,Allow,26.99,481,15.2,5.6,Yes,High,2.1,Education,Monthly,1
+136,Allow,Not Allow,Not Allow,Allow,Not Allow,89.5,360,15.0,25.65,No,Medium,2.8,Gaming,Rarely,1
+137,Allow,Allow,Not Allow,Allow,Allow,63.68,267,21.2,48.66,Yes,Medium,1.2,Utility,Monthly,0
+138,Allow,Allow,Allow,Allow,Allow,33.4,595,6.2,44.15,No,High,2.0,Utility,Rarely,0
+139,Allow,Not Allow,Not Allow,Not Allow,Not Allow,73.75,400,23.6,28.52,No,Low,4.7,Shopping,Weekly,1
+140,Allow,Not Allow,Not Allow,Allow,Allow,78.47,451,28.8,9.28,Yes,Low,2.9,Social,Weekly,0
+141,Not Allow,Allow,Not Allow,Not Allow,Not Allow,13.44,312,16.7,38.51,No,Medium,4.2,Shopping,Rarely,0
+142,Not Allow,Allow,Allow,Allow,Not Allow,89.76,368,22.8,47.04,No,Low,2.0,Education,Weekly,0
+143,Not Allow,Not Allow,Not Allow,Allow,Not Allow,94.09,108,26.3,24.94,Yes,High,1.7,Shopping,Rarely,0
+144,Not Allow,Allow,Allow,Not Allow,Allow,30.64,620,21.5,29.02,No,High,2.4,Social,Weekly,1
+145,Allow,Allow,Allow,Not Allow,Not Allow,36.24,724,8.5,41.31,Yes,Medium,1.7,Shopping,Weekly,1
+146,Allow,Allow,Not Allow,Not Allow,Not Allow,12.49,947,26.2,9.75,Yes,High,2.1,Shopping,Rarely,1
+147,Allow,Allow,Not Allow,Not Allow,Not Allow,1.14,926,6.3,11.44,No,Low,3.1,Utility,Weekly,0
+148,Not Allow,Allow,Not Allow,Allow,Not Allow,74.8,607,13.9,8.96,No,Low,3.1,Social,Weekly,1
+149,Allow,Not Allow,Allow,Allow,Not Allow,57.87,998,29.8,13.15,No,High,3.0,Shopping,Monthly,0
+150,Allow,Not Allow,Allow,Allow,Not Allow,74.92,491,26.7,26.02,No,Medium,3.8,Utility,Rarely,1
+151,Allow,Allow,Allow,Not Allow,Allow,85.98,442,20.5,49.61,Yes,Medium,3.6,Gaming,Monthly,1
+152,Allow,Not Allow,Allow,Allow,Not Allow,85.87,106,23.9,26.92,Yes,Medium,1.5,Shopping,Weekly,1
+153,Not Allow,Not Allow,Allow,Allow,Not Allow,80.11,452,18.8,13.66,No,Medium,1.3,Education,Monthly,0
+154,Not Allow,Not Allow,Not Allow,Not Allow,Allow,50.64,746,16.7,45.83,No,Low,1.3,Shopping,Weekly,0
+155,Allow,Not Allow,Not Allow,Allow,Allow,61.07,920,9.0,6.89,Yes,Medium,3.5,Education,Rarely,1
+156,Not Allow,Allow,Not Allow,Allow,Not Allow,22.05,725,18.5,26.4,Yes,Medium,4.9,Education,Monthly,0
+157,Allow,Allow,Not Allow,Not Allow,Not Allow,42.38,626,17.4,7.13,No,Low,1.7,Gaming,Monthly,0
+158,Not Allow,Allow,Not Allow,Not Allow,Not Allow,6.3,546,6.6,18.96,No,Low,1.2,Social,Monthly,0
+159,Allow,Allow,Not Allow,Not Allow,Allow,86.41,463,29.6,45.23,Yes,Low,4.2,Utility,Rarely,0
+160,Allow,Not Allow,Not Allow,Not Allow,Not Allow,4.49,351,9.4,13.15,No,High,2.8,Education,Rarely,0
+161,Allow,Allow,Allow,Not Allow,Allow,91.28,223,14.9,37.84,Yes,High,3.8,Shopping,Rarely,1
+162,Not Allow,Allow,Allow,Not Allow,Not Allow,39.72,693,27.6,27.34,Yes,Medium,2.2,Education,Weekly,0
+163,Allow,Not Allow,Not Allow,Not Allow,Allow,22.17,967,6.3,30.24,Yes,High,3.8,Social,Monthly,0
+164,Not Allow,Allow,Allow,Allow,Allow,64.86,505,20.6,35.41,No,Low,1.6,Education,Weekly,0
+165,Not Allow,Not Allow,Allow,Allow,Not Allow,30.35,611,9.1,11.83,Yes,High,2.5,Utility,Monthly,0
+166,Allow,Not Allow,Not Allow,Not Allow,Not Allow,31.94,222,12.5,5.64,Yes,Low,4.2,Education,Rarely,1
+167,Not Allow,Not Allow,Not Allow,Allow,Allow,93.01,445,25.2,21.58,No,Medium,1.8,Shopping,Rarely,1
+168,Not Allow,Allow,Not Allow,Not Allow,Not Allow,2.06,956,17.1,7.07,Yes,High,3.3,Education,Monthly,0
+169,Not Allow,Allow,Not Allow,Not Allow,Allow,50.05,437,6.3,15.11,No,Low,3.3,Gaming,Rarely,0
+170,Allow,Not Allow,Not Allow,Not Allow,Allow,7.5,232,10.3,1.21,No,Low,3.6,Shopping,Rarely,0
+171,Not Allow,Not Allow,Allow,Not Allow,Allow,37.19,431,8.0,32.55,No,High,2.3,Utility,Weekly,1
+172,Allow,Allow,Not Allow,Allow,Allow,45.6,898,20.3,24.41,No,Low,1.2,Social,Rarely,0
+173,Not Allow,Not Allow,Allow,Not Allow,Not Allow,31.45,747,28.2,13.64,Yes,Low,5.0,Utility,Weekly,0
+174,Allow,Not Allow,Not Allow,Allow,Allow,77.3,794,19.3,15.27,No,High,3.3,Gaming,Monthly,1
+175,Allow,Allow,Allow,Not Allow,Allow,37.06,376,16.0,7.91,No,Low,3.5,Shopping,Monthly,0
+176,Allow,Allow,Not Allow,Not Allow,Not Allow,76.72,179,26.7,26.52,Yes,Low,1.7,Utility,Weekly,0
+177,Allow,Not Allow,Allow,Not Allow,Allow,59.36,272,11.2,39.96,No,Medium,1.4,Social,Weekly,1
+178,Allow,Not Allow,Allow,Allow,Allow,40.07,240,22.0,21.74,No,Low,3.1,Gaming,Weekly,0
+179,Not Allow,Allow,Allow,Allow,Allow,43.47,290,27.6,23.7,Yes,High,1.2,Utility,Weekly,0
+180,Allow,Allow,Allow,Allow,Allow,55.54,848,25.1,39.1,No,Low,4.1,Social,Rarely,1
+181,Not Allow,Not Allow,Allow,Allow,Not Allow,88.94,100,9.4,41.56,No,Low,3.2,Education,Rarely,1
+182,Not Allow,Not Allow,Not Allow,Allow,Allow,70.05,561,22.4,48.2,Yes,High,4.4,Shopping,Monthly,1
+183,Allow,Not Allow,Allow,Allow,Not Allow,57.31,794,29.9,33.49,No,Medium,4.8,Gaming,Weekly,0
+184,Allow,Not Allow,Allow,Allow,Not Allow,71.03,713,26.5,33.91,No,Medium,4.1,Gaming,Rarely,1
+185,Not Allow,Not Allow,Not Allow,Not Allow,Allow,20.36,204,18.8,23.87,Yes,Low,4.3,Gaming,Weekly,0
+186,Not Allow,Allow,Not Allow,Allow,Not Allow,17.63,874,7.6,44.36,No,Low,2.0,Gaming,Rarely,0
+187,Allow,Not Allow,Not Allow,Not Allow,Allow,70.93,292,24.5,1.89,No,Low,2.6,Gaming,Weekly,0
+188,Allow,Not Allow,Allow,Allow,Allow,43.89,405,28.7,25.91,No,High,3.9,Utility,Monthly,1
+189,Not Allow,Not Allow,Allow,Not Allow,Not Allow,24.21,314,29.0,11.5,No,Medium,4.7,Utility,Weekly,1
+190,Not Allow,Allow,Allow,Allow,Allow,28.21,274,15.0,9.24,Yes,Low,1.4,Utility,Monthly,1
+191,Allow,Not Allow,Allow,Not Allow,Allow,60.22,133,25.2,36.69,Yes,High,1.8,Shopping,Rarely,0
+192,Allow,Not Allow,Allow,Allow,Not Allow,74.22,126,6.3,32.14,Yes,High,3.2,Utility,Weekly,0
+193,Not Allow,Allow,Not Allow,Not Allow,Allow,79.5,850,23.6,7.19,Yes,Low,4.1,Shopping,Rarely,1
+194,Allow,Allow,Not Allow,Allow,Allow,29.85,182,26.4,33.68,Yes,Low,2.3,Utility,Rarely,1
+195,Allow,Not Allow,Allow,Allow,Allow,61.26,756,20.2,33.03,No,Medium,4.8,Utility,Weekly,0
+196,Not Allow,Allow,Not Allow,Allow,Not Allow,69.3,755,18.3,45.15,Yes,Low,2.4,Gaming,Weekly,0
+197,Allow,Allow,Not Allow,Allow,Not Allow,54.73,586,16.6,6.42,Yes,High,3.4,Gaming,Rarely,0
+198,Allow,Not Allow,Not Allow,Not Allow,Allow,70.31,856,19.7,34.62,Yes,Low,2.3,Utility,Monthly,1
+199,Allow,Allow,Not Allow,Allow,Allow,39.96,1000,21.4,17.1,No,High,2.7,Social,Monthly,0
+200,Not Allow,Allow,Not Allow,Allow,Allow,4.95,952,25.6,47.87,No,Low,4.7,Social,Rarely,0

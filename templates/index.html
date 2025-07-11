@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cybersecurity of Mobile Application Using Artificial Intelligence</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <header>
+        <h1>CYBERSECURITY OF MOBILE APPLICATION USING ARTIFICIAL INTELLIGENCE</h1>
+    </header><br>
+
+    <div class="container">
+        <div class="animated-box">
+            <h2>Enter App Details</h2>
+            <form id="predictionForm">
+                <!-- Permissions -->
+                <h3>Permissions</h3>
+                <label for="camera">Permission Camera:</label>
+                <select id="camera" required>
+                    <option value="Allow">Allow</option>
+                    <option value="Not Allow">Not Allow</option>
+                </select>
+
+                <label for="location">Permission Location:</label>
+                <select id="location" required>
+                    <option value="Allow">Allow</option>
+                    <option value="Not Allow">Not Allow</option>
+                </select>
+
+                <label for="contacts">Permission Contacts:</label>
+                <select id="contacts" required>
+                    <option value="Allow">Allow</option>
+                    <option value="Not Allow">Not Allow</option>
+                </select>
+
+                <label for="microphone">Permission Microphone:</label>
+                <select id="microphone" required>
+                    <option value="Allow">Allow</option>
+                    <option value="Not Allow">Not Allow</option>
+                </select>
+
+                <label for="storage">Permission Storage:</label>
+                <select id="storage" required>
+                    <option value="Allow">Allow</option>
+                    <option value="Not Allow">Not Allow</option>
+                </select>
+
+                <!-- App Behavior -->
+                <h3>App Behavior</h3>
+                <label for="network_speed">Network Speed (Mbps):</label>
+                <input type="number" id="network_speed" step="0.1" required />
+
+                <label for="api_calls">API Calls:</label>
+                <input type="number" id="api_calls" required />
+
+                <label for="battery">Battery Usage (%):</label>
+                <input type="number" id="battery" step="0.1" required />
+
+                <label for="data_accessed">Data Accessed (MB):</label>
+                <input type="number" id="data_accessed" step="0.1" required />
+
+                <!-- Risk Indicators -->
+                <h3>Risk Indicators</h3>
+                <label for="suspicious">Suspicious Patterns:</label>
+                <select id="suspicious" required>
+                    <option value="Yes">Yes</option>
+                    <option value="No">No</option>
+                </select>
+
+                <label for="risk_factor">Risk Factor:</label>
+                <select id="risk_factor" required>
+                    <option value="Low">Low</option>
+                    <option value="Medium">Medium</option>
+                    <option value="High">High</option>
+                </select>
+
+                <!-- Metadata -->
+                <h3>Metadata</h3>
+                <label for="rating">App Rating (1-5):</label>
+                <input type="number" id="rating" step="0.1" min="1" max="5" required />
+
+                <label for="category">Category:</label>
+                <select id="category" required>
+                    <option value="Social">Social</option>
+                    <option value="Gaming">Gaming</option>
+                    <option value="Utility">Utility</option>
+                    <option value="Shopping">Shopping</option>
+                    <option value="Education">Education</option>
+                </select>
+
+                <label for="update_frequency">Update Frequency:</label>
+                <select id="update_frequency" required>
+                    <option value="Weekly">Weekly</option>
+                    <option value="Monthly">Monthly</option>
+                    <option value="Rarely">Rarely</option>
+                </select>
+
+                <!-- Source Type -->
+                <h3>Source Type</h3>
+                <label for="source_type">Source Type:</label>
+                <select id="source_type" required>
+                    <option value="Play Store">Play Store</option>
+                    <option value="App Store">App Store</option>
+                    <option value="APK from Chrome">APK from Chrome</option>
+                    <option value="APK from Other Apps">APK from Other Apps</option>
+                </select>
+
+                <button type="submit">Predict</button>
+            </form><br>
+        </div>
+    </div>
+
+    <!-- Result Modal -->
+    <div id="resultModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2>Prediction Result</h2>
+            <p><strong>Result:</strong> <span id="result"></span></p>
+            <p><strong>Confidence Level:</strong> <span id="confidence"></span></p>
+
+            <h3>Detailed Analysis</h3>
+            <ul id="analysisContent"></ul>
+
+            <h3>Summary</h3>
+            <p id="summary"></p>
+        </div>
+    </div>
+
+    <footer>
+        <p>© 2025 Cybersecurity of Mobile Application Using Artificial Intelligence. All rights reserved.</p>
+    </footer>
+
+    <script>
+        document.getElementById('predictionForm').addEventListener('submit', async (e) => {
+            e.preventDefault();
+
+            const inputData = {
+                Permission_Camera: document.getElementById('camera').value,
+                Permission_Location: document.getElementById('location').value,
+                Permission_Contacts: document.getElementById('contacts').value,
+                Permission_Microphone: document.getElementById('microphone').value,
+                Permission_Storage: document.getElementById('storage').value,
+                Network_Speed: parseFloat(document.getElementById('network_speed').value),
+                API_Calls: parseInt(document.getElementById('api_calls').value),
+                Battery_Usage: parseFloat(document.getElementById('battery').value),
+                Data_Accessed: parseFloat(document.getElementById('data_accessed').value),
+                Suspicious_Patterns: document.getElementById('suspicious').value,
+                Risk_Factor: document.getElementById('risk_factor').value,
+                App_Rating: parseFloat(document.getElementById('rating').value),
+                Category: document.getElementById('category').value,
+                Update_Frequency: document.getElementById('update_frequency').value,
+                Source_Type: document.getElementById('source_type').value
+            };
+
+            try {
+                const response = await fetch('/predict', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ input_data: inputData })
+                });
+
+                const result = await response.json();
+                if (result.error) throw new Error(result.error);
+
+                // Update modal with dynamic content
+                document.getElementById('result').textContent = result.prediction;
+                document.getElementById('confidence').textContent = 
+                    `${(result.confidence * 100).toFixed(2)}%`;
+
+                const analysisContent = document.getElementById('analysisContent');
+                analysisContent.innerHTML = ''; // Clear previous analysis
+                result.analysis.forEach(item => {
+                    const li = document.createElement('li');
+                    li.textContent = item;
+                    analysisContent.appendChild(li);
+                });
+
+                document.getElementById('summary').textContent = result.summary;
+                document.getElementById('resultModal').style.display = 'block';
+            } catch (err) {
+                document.getElementById('result').textContent = 'Error';
+                document.getElementById('confidence').textContent = '';
+                document.getElementById('summary').textContent = err.message;
+                document.getElementById('resultModal').style.display = 'block';
+            }
+        });
+
+        // Close modal
+        document.querySelector('.close').addEventListener('click', () => {
+            document.getElementById('resultModal').style.display = 'none';
+        });
+
+        // Close modal on outside click
+        window.onclick = (event) => {
+            const modal = document.getElementById('resultModal');
+            if (event.target === modal) {
+                modal.style.display = 'none';
+            }
+        };
+    </script>
+</body>
+</html>

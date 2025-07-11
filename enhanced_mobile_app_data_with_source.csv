@@ -1,0 +1,351 @@
+App_ID,Permission_Camera,Permission_Location,Permission_Contacts,Permission_Microphone,Permission_Storage,Network_Speed,API_Calls,Battery_Usage,Data_Accessed,Suspicious_Patterns,Risk_Factor,App_Rating,Category,Update_Frequency,Source_Type,Is_Malicious
+1,Allow,Allow,Allow,Not Allow,Not Allow,91.87,225,28.3,8.03,No,Medium,1.9,Education,Rarely,APK from Chrome,1
+2,Allow,Not Allow,Allow,Not Allow,Not Allow,32.73,413,13.2,44.41,No,High,3.2,Education,Rarely,APK from Other Apps,1
+3,Allow,Not Allow,Not Allow,Allow,Allow,61.08,576,12.9,8.93,Yes,High,3.4,Social,Monthly,APK from Chrome,1
+4,Not Allow,Not Allow,Not Allow,Not Allow,Not Allow,18.37,977,7.9,26.46,Yes,High,4.5,Gaming,Weekly,Play Store,0
+5,Not Allow,Not Allow,Not Allow,Allow,Not Allow,67.19,223,9.7,8.99,No,Low,1.6,Social,Rarely,Play Store,0
+6,Allow,Allow,Allow,Allow,Not Allow,98.33,836,9.4,1.25,No,Low,1.6,Social,Monthly,APK from Chrome,1
+7,Not Allow,Allow,Allow,Not Allow,Not Allow,1.44,673,5.2,15.2,No,Medium,2,Utility,Rarely,App Store,0
+8,Allow,Allow,Allow,Allow,Not Allow,76.67,188,27.5,1.7,Yes,Low,4.6,Shopping,Monthly,APK from Other Apps,1
+9,Not Allow,Allow,Allow,Allow,Allow,42.32,233,5.9,16.8,Yes,High,3.3,Shopping,Monthly,Play Store,1
+10,Allow,Not Allow,Allow,Allow,Not Allow,91.81,203,5.2,26.78,Yes,High,2.3,Shopping,Monthly,APK from Other Apps,0
+11,Allow,Allow,Not Allow,Allow,Not Allow,15.77,839,12.9,10.22,Yes,Medium,5,Utility,Monthly,APK from Chrome,1
+12,Not Allow,Allow,Allow,Allow,Not Allow,39.03,347,5.3,37.49,No,Low,1.9,Shopping,Weekly,App Store,1
+13,Not Allow,Not Allow,Not Allow,Not Allow,Not Allow,39.89,165,19.4,8.94,Yes,Medium,2.8,Education,Monthly,APK from Chrome,0
+14,Not Allow,Not Allow,Allow,Not Allow,Allow,75.38,688,29.3,48.46,No,Medium,3.3,Gaming,Weekly,APK from Other Apps,1
+15,Not Allow,Allow,Allow,Not Allow,Not Allow,28.77,138,10.8,15.37,No,High,3.1,Education,Weekly,APK from Chrome,0
+16,Allow,Not Allow,Allow,Not Allow,Not Allow,73.64,919,25.4,32.88,No,Medium,3.4,Social,Weekly,APK from Chrome,1
+17,Not Allow,Allow,Not Allow,Not Allow,Allow,5.33,630,26.6,15.55,No,Medium,4.4,Education,Rarely,APK from Chrome,1
+18,Allow,Not Allow,Allow,Not Allow,Not Allow,39.74,483,15.4,10.32,No,High,3.3,Education,Weekly,Play Store,0
+19,Allow,Allow,Not Allow,Not Allow,Allow,22.96,731,12.2,24.4,No,High,1,Shopping,Rarely,Play Store,1
+20,Not Allow,Not Allow,Not Allow,Allow,Allow,58.36,639,13.8,48.68,No,High,4.8,Social,Weekly,Play Store,1
+21,Allow,Not Allow,Not Allow,Allow,Not Allow,76.03,62,26.4,39.03,No,High,1.7,Social,Weekly,App Store,1
+22,Not Allow,Allow,Allow,Allow,Not Allow,97.51,657,19.2,34.48,Yes,Medium,1.5,Gaming,Monthly,APK from Other Apps,0
+23,Allow,Allow,Not Allow,Not Allow,Allow,43.16,195,14.6,43.12,Yes,Low,2.9,Shopping,Monthly,APK from Chrome,0
+24,Not Allow,Allow,Allow,Not Allow,Not Allow,31.86,827,12.3,48.52,Yes,Medium,2.5,Gaming,Rarely,App Store,1
+25,Not Allow,Not Allow,Not Allow,Not Allow,Not Allow,78.23,582,28.2,35.87,No,Medium,2.3,Shopping,Weekly,App Store,1
+26,Allow,Allow,Not Allow,Not Allow,Allow,47,921,16.1,6.59,No,High,2.9,Social,Rarely,APK from Chrome,0
+27,Allow,Not Allow,Allow,Allow,Not Allow,1.52,723,22.4,42.76,No,High,1.2,Education,Rarely,App Store,1
+28,Allow,Not Allow,Allow,Allow,Not Allow,76.36,820,9.3,27.93,No,High,3.5,Shopping,Rarely,APK from Chrome,1
+29,Allow,Not Allow,Allow,Not Allow,Not Allow,87.27,773,14.1,4.47,Yes,Low,4.2,Shopping,Weekly,App Store,0
+30,Not Allow,Not Allow,Allow,Allow,Not Allow,64.28,397,14.7,9.41,Yes,Medium,2.8,Gaming,Rarely,App Store,1
+31,Not Allow,Not Allow,Not Allow,Allow,Not Allow,35.2,347,23.4,47.23,Yes,Low,1.6,Education,Monthly,APK from Other Apps,0
+32,Allow,Not Allow,Allow,Not Allow,Not Allow,79.92,336,19.1,14.93,No,Medium,2.6,Education,Monthly,Play Store,0
+33,Not Allow,Not Allow,Not Allow,Not Allow,Not Allow,87.92,876,23.6,6.53,Yes,Medium,3.3,Education,Rarely,APK from Chrome,0
+34,Not Allow,Not Allow,Not Allow,Allow,Not Allow,4.58,579,20.4,19.71,No,Low,2.7,Shopping,Rarely,App Store,0
+35,Not Allow,Allow,Not Allow,Not Allow,Allow,70.57,822,29.8,6.61,No,Medium,4.7,Gaming,Rarely,App Store,1
+36,Not Allow,Allow,Not Allow,Not Allow,Not Allow,69.96,260,29.3,19.1,No,Low,2.2,Education,Weekly,App Store,0
+37,Not Allow,Allow,Not Allow,Allow,Not Allow,75.69,456,20.1,27.94,No,Low,4.3,Social,Rarely,Play Store,0
+38,Allow,Allow,Allow,Allow,Allow,52.15,111,24,46.92,Yes,Medium,1.5,Education,Monthly,Play Store,0
+39,Not Allow,Not Allow,Allow,Not Allow,Allow,30.23,192,7.5,11.89,Yes,High,4.8,Utility,Monthly,APK from Other Apps,0
+40,Not Allow,Allow,Allow,Allow,Allow,59.4,314,29.4,32.25,No,High,4.2,Gaming,Rarely,Play Store,0
+41,Allow,Allow,Not Allow,Allow,Not Allow,93.4,583,28.3,26.02,Yes,High,2.7,Social,Weekly,Play Store,0
+42,Allow,Not Allow,Not Allow,Not Allow,Allow,97.93,151,22.9,48.7,No,Medium,1.5,Social,Weekly,APK from Other Apps,1
+43,Allow,Not Allow,Allow,Not Allow,Not Allow,59.98,885,20.4,44.93,Yes,High,2.5,Education,Weekly,Play Store,1
+44,Not Allow,Allow,Not Allow,Allow,Not Allow,96.6,730,29.7,20.77,No,High,3.4,Shopping,Monthly,Play Store,0
+45,Not Allow,Not Allow,Not Allow,Allow,Not Allow,62.2,138,21.4,42.19,Yes,High,2.6,Social,Monthly,APK from Chrome,1
+46,Allow,Not Allow,Not Allow,Allow,Not Allow,76.3,232,27,22.4,Yes,Low,4.7,Social,Weekly,App Store,1
+47,Allow,Not Allow,Allow,Allow,Allow,12.03,465,9.7,15.88,No,High,4.4,Education,Monthly,Play Store,0
+48,Not Allow,Allow,Not Allow,Not Allow,Allow,77.65,672,11.8,40.09,Yes,Low,2.8,Utility,Rarely,App Store,0
+49,Not Allow,Not Allow,Not Allow,Not Allow,Allow,76.14,941,30,38.65,Yes,High,4.5,Shopping,Monthly,APK from Chrome,0
+50,Allow,Not Allow,Not Allow,Allow,Not Allow,76.53,465,28.1,1.54,Yes,Medium,4.4,Utility,Rarely,APK from Chrome,0
+51,Not Allow,Allow,Not Allow,Allow,Allow,72.54,600,7.2,37.21,Yes,Low,1.6,Social,Monthly,Play Store,1
+52,Not Allow,Not Allow,Not Allow,Allow,Allow,92.31,170,12.1,41.59,Yes,Low,3.2,Education,Rarely,Play Store,0
+53,Allow,Allow,Allow,Allow,Not Allow,61.31,584,10.7,39.67,Yes,Medium,3.2,Utility,Weekly,APK from Other Apps,1
+54,Not Allow,Allow,Allow,Allow,Allow,44.1,738,6.8,46.28,Yes,Medium,4.1,Education,Rarely,App Store,0
+55,Allow,Allow,Not Allow,Allow,Not Allow,72.11,577,10.2,19.83,Yes,Low,2.7,Gaming,Monthly,Play Store,0
+56,Allow,Not Allow,Not Allow,Allow,Allow,84.16,420,25.5,47.22,No,High,2.7,Utility,Rarely,APK from Other Apps,1
+57,Allow,Allow,Allow,Not Allow,Not Allow,50.65,842,19.3,20.75,Yes,Low,2.9,Social,Rarely,Play Store,1
+58,Allow,Allow,Allow,Not Allow,Allow,52.09,917,8.4,10.11,Yes,High,4.6,Social,Weekly,APK from Chrome,1
+59,Not Allow,Not Allow,Allow,Allow,Allow,17.12,997,22.4,43.9,No,High,3.7,Utility,Monthly,Play Store,1
+60,Allow,Allow,Not Allow,Allow,Allow,50.41,81,14.6,34.41,No,High,2.7,Social,Monthly,APK from Other Apps,0
+61,Not Allow,Not Allow,Allow,Allow,Not Allow,40.05,491,18.6,39.65,No,Medium,3.7,Gaming,Rarely,APK from Other Apps,1
+62,Not Allow,Not Allow,Not Allow,Not Allow,Not Allow,22.18,467,7.6,27.23,Yes,Medium,2.5,Gaming,Weekly,APK from Chrome,0
+63,Allow,Not Allow,Allow,Not Allow,Not Allow,52.75,525,9.8,30.6,No,Low,4.8,Gaming,Weekly,Play Store,1
+64,Not Allow,Allow,Allow,Not Allow,Allow,78.64,131,13,48.66,Yes,Medium,3.1,Gaming,Weekly,APK from Other Apps,0
+65,Allow,Not Allow,Allow,Not Allow,Not Allow,81.58,247,23.5,39.54,Yes,High,3.6,Shopping,Monthly,Play Store,0
+66,Allow,Not Allow,Not Allow,Not Allow,Not Allow,67.57,496,16.2,32.17,Yes,Low,4.4,Social,Weekly,APK from Other Apps,0
+67,Allow,Not Allow,Not Allow,Not Allow,Not Allow,1.87,382,25.4,24.36,No,High,4.7,Gaming,Monthly,APK from Chrome,1
+68,Not Allow,Allow,Not Allow,Not Allow,Allow,42.3,843,25,6.07,Yes,Medium,2.2,Shopping,Rarely,APK from Chrome,1
+69,Allow,Allow,Allow,Allow,Allow,54.39,320,8.4,42.78,No,High,1.8,Gaming,Weekly,APK from Other Apps,1
+70,Allow,Allow,Not Allow,Not Allow,Allow,62.28,516,29.4,15.18,Yes,Medium,3.5,Shopping,Weekly,APK from Other Apps,1
+71,Allow,Allow,Not Allow,Not Allow,Allow,59.49,745,16.2,30.51,No,Low,1.7,Social,Rarely,APK from Other Apps,0
+72,Not Allow,Not Allow,Allow,Not Allow,Allow,55.32,413,10.9,2.82,No,High,2.8,Social,Monthly,Play Store,0
+73,Not Allow,Allow,Allow,Not Allow,Allow,76.88,232,13.2,16.02,No,Medium,4.6,Gaming,Monthly,APK from Other Apps,0
+74,Allow,Allow,Not Allow,Allow,Not Allow,18.65,352,29.5,6.89,Yes,High,1.3,Shopping,Weekly,App Store,0
+75,Allow,Not Allow,Allow,Not Allow,Not Allow,50.42,117,20.2,33.21,No,Medium,1.6,Shopping,Monthly,App Store,1
+76,Not Allow,Not Allow,Allow,Not Allow,Not Allow,7.91,866,25.1,49.39,Yes,Low,4.3,Education,Monthly,Play Store,0
+77,Allow,Allow,Not Allow,Allow,Allow,73.21,738,12.3,23.02,Yes,Low,2.4,Shopping,Weekly,App Store,1
+78,Allow,Allow,Allow,Not Allow,Allow,70.93,147,27.3,30.37,No,High,4.3,Social,Rarely,App Store,1
+79,Not Allow,Not Allow,Allow,Allow,Not Allow,96.92,652,18.2,48.88,No,Medium,2.5,Social,Weekly,App Store,0
+80,Not Allow,Not Allow,Not Allow,Not Allow,Allow,64.18,342,28.3,23.22,No,Medium,4.9,Shopping,Monthly,Play Store,0
+81,Not Allow,Allow,Allow,Not Allow,Not Allow,84.62,302,28.9,22.26,Yes,Low,3.2,Utility,Weekly,APK from Chrome,1
+82,Not Allow,Allow,Allow,Allow,Allow,39.46,157,20.7,36.35,Yes,High,4.1,Education,Rarely,App Store,1
+83,Not Allow,Allow,Not Allow,Allow,Not Allow,63.11,301,10.3,45.91,No,Medium,4,Social,Weekly,App Store,0
+84,Not Allow,Not Allow,Allow,Not Allow,Not Allow,55.24,700,18.1,13.76,Yes,Low,1.8,Social,Weekly,APK from Chrome,0
+85,Allow,Allow,Not Allow,Not Allow,Allow,47.29,720,15.5,49.85,Yes,High,4.1,Shopping,Monthly,Play Store,0
+86,Allow,Not Allow,Allow,Allow,Not Allow,45.15,850,10,29.43,Yes,Medium,4.6,Social,Monthly,APK from Other Apps,1
+87,Not Allow,Not Allow,Not Allow,Allow,Allow,91.87,762,8.5,5.31,Yes,Medium,1.2,Education,Monthly,APK from Chrome,0
+88,Allow,Not Allow,Allow,Not Allow,Not Allow,14.41,758,11.6,16.51,Yes,High,4.9,Utility,Weekly,App Store,0
+89,Not Allow,Not Allow,Allow,Not Allow,Not Allow,75.67,392,7.1,37.6,No,Low,2.3,Shopping,Weekly,App Store,1
+90,Allow,Not Allow,Not Allow,Not Allow,Allow,21.63,515,27.3,33.12,Yes,Medium,4.5,Gaming,Weekly,APK from Chrome,0
+91,Not Allow,Allow,Allow,Not Allow,Allow,32.83,834,18.7,2.57,No,Low,2.6,Social,Weekly,APK from Other Apps,0
+92,Not Allow,Allow,Allow,Allow,Not Allow,64.44,418,12.1,13.21,No,Medium,4.3,Social,Rarely,APK from Other Apps,0
+93,Allow,Not Allow,Allow,Allow,Allow,16.25,259,8.8,38.2,No,High,4.4,Utility,Rarely,APK from Other Apps,0
+94,Allow,Allow,Not Allow,Not Allow,Not Allow,3.71,667,17.1,46.63,Yes,Medium,1,Utility,Weekly,APK from Other Apps,0
+95,Not Allow,Not Allow,Not Allow,Not Allow,Allow,18.85,227,25.7,42.52,Yes,Low,3.2,Social,Rarely,App Store,1
+96,Allow,Allow,Not Allow,Not Allow,Allow,98.16,852,20.6,1.66,Yes,Medium,3.7,Shopping,Monthly,Play Store,1
+97,Not Allow,Allow,Not Allow,Not Allow,Not Allow,97.83,111,26.9,47.43,No,Low,1.9,Gaming,Monthly,APK from Chrome,0
+98,Not Allow,Not Allow,Not Allow,Not Allow,Not Allow,61.52,500,7.5,25.34,Yes,High,2.5,Utility,Weekly,APK from Chrome,0
+99,Not Allow,Not Allow,Allow,Not Allow,Not Allow,45.53,589,15.1,9.07,No,Medium,1.4,Gaming,Weekly,Play Store,0
+100,Not Allow,Not Allow,Allow,Not Allow,Allow,33.7,175,23.1,33.95,No,Medium,3.6,Gaming,Monthly,APK from Chrome,0
+101,Not Allow,Allow,Allow,Allow,Allow,48.43,979,13.8,47.45,Yes,High,1.1,Education,Rarely,Play Store,1
+102,Allow,Not Allow,Allow,Allow,Allow,8.21,562,18.5,17.74,No,High,3.5,Social,Weekly,Play Store,0
+103,Not Allow,Allow,Allow,Allow,Allow,52.05,763,29.7,24.17,Yes,High,1.9,Shopping,Monthly,APK from Chrome,1
+104,Not Allow,Allow,Allow,Allow,Allow,70.61,214,23.5,15.06,No,Low,2.4,Gaming,Rarely,App Store,1
+105,Not Allow,Not Allow,Allow,Not Allow,Allow,82.05,989,16.3,19.65,Yes,Medium,3.1,Utility,Weekly,APK from Other Apps,1
+106,Not Allow,Not Allow,Not Allow,Not Allow,Allow,4.06,577,23.8,25.47,No,Medium,1.3,Social,Monthly,APK from Chrome,0
+107,Not Allow,Allow,Not Allow,Allow,Allow,43.65,586,22,9.56,No,Medium,2.2,Utility,Weekly,App Store,1
+108,Allow,Allow,Not Allow,Allow,Allow,13.79,966,19.2,13.08,No,Medium,2.3,Utility,Monthly,APK from Other Apps,0
+109,Allow,Allow,Not Allow,Not Allow,Not Allow,58.67,149,17.3,6.76,No,Medium,3.3,Utility,Rarely,APK from Chrome,0
+110,Allow,Allow,Allow,Allow,Allow,55.46,608,14.2,32.65,Yes,High,3.9,Social,Monthly,Play Store,0
+111,Not Allow,Allow,Not Allow,Not Allow,Not Allow,42.7,925,16.5,28.08,No,Low,1.9,Education,Weekly,APK from Other Apps,0
+112,Allow,Allow,Allow,Not Allow,Allow,26.79,800,15.4,49.77,Yes,Low,2.5,Education,Monthly,Play Store,0
+113,Allow,Not Allow,Allow,Allow,Allow,47.32,519,29.7,45.41,Yes,High,2,Education,Weekly,App Store,1
+114,Not Allow,Allow,Not Allow,Not Allow,Allow,54.72,783,20.2,46.83,Yes,High,4.5,Education,Monthly,Play Store,1
+115,Allow,Allow,Not Allow,Not Allow,Allow,47.1,787,24.4,25.14,Yes,Medium,4.7,Social,Monthly,APK from Other Apps,1
+116,Allow,Not Allow,Not Allow,Allow,Allow,23.87,97,16,26.71,No,Medium,1.2,Gaming,Weekly,App Store,0
+117,Allow,Not Allow,Not Allow,Allow,Not Allow,69.94,146,7.8,9.34,No,Low,3.8,Gaming,Monthly,APK from Chrome,0
+118,Allow,Not Allow,Not Allow,Not Allow,Not Allow,4.4,865,13.9,23.32,No,High,3.1,Education,Rarely,Play Store,1
+119,Allow,Allow,Not Allow,Allow,Allow,50.68,511,16.9,37.28,Yes,Medium,4.1,Gaming,Rarely,Play Store,1
+120,Not Allow,Not Allow,Allow,Allow,Not Allow,55.25,154,18,33.66,Yes,High,4.5,Education,Rarely,APK from Chrome,1
+121,Allow,Allow,Not Allow,Not Allow,Allow,20.67,532,19,16.39,Yes,High,1.2,Shopping,Monthly,APK from Other Apps,0
+122,Not Allow,Not Allow,Allow,Not Allow,Not Allow,88.26,263,16.1,25.49,No,Low,3,Utility,Weekly,APK from Chrome,0
+123,Not Allow,Not Allow,Allow,Not Allow,Allow,60.58,535,25.4,19.76,No,Low,2.9,Social,Monthly,APK from Chrome,0
+124,Not Allow,Not Allow,Not Allow,Not Allow,Not Allow,30.73,495,15,13,Yes,Medium,3.9,Gaming,Weekly,Play Store,1
+125,Allow,Not Allow,Not Allow,Not Allow,Not Allow,17.42,818,28.5,34.75,No,High,1.8,Gaming,Monthly,APK from Chrome,1
+126,Allow,Allow,Not Allow,Not Allow,Allow,72.44,440,14.5,11.81,No,High,2.5,Shopping,Rarely,App Store,0
+127,Allow,Allow,Not Allow,Allow,Not Allow,45.65,456,25.8,37.39,No,High,1.4,Shopping,Rarely,APK from Chrome,0
+128,Allow,Allow,Not Allow,Allow,Not Allow,56.92,162,6.9,4.49,No,Low,1.2,Social,Monthly,APK from Chrome,0
+129,Allow,Not Allow,Allow,Not Allow,Not Allow,28.41,675,15.7,21.5,No,Medium,3.6,Education,Weekly,APK from Other Apps,1
+130,Not Allow,Not Allow,Allow,Allow,Allow,85.58,63,13.7,9.61,No,Medium,3.1,Social,Rarely,App Store,0
+131,Not Allow,Allow,Not Allow,Not Allow,Not Allow,27.42,753,10.5,20.51,No,Low,2.1,Shopping,Weekly,APK from Other Apps,0
+132,Allow,Allow,Allow,Allow,Allow,50.84,697,21.2,33.46,No,High,4.8,Gaming,Monthly,APK from Chrome,1
+133,Not Allow,Allow,Allow,Not Allow,Not Allow,5.7,363,23.9,17.13,Yes,High,1.3,Gaming,Rarely,APK from Chrome,1
+134,Not Allow,Not Allow,Not Allow,Not Allow,Allow,92.39,271,25.4,45.32,Yes,Medium,2.9,Education,Weekly,APK from Other Apps,0
+135,Not Allow,Allow,Allow,Allow,Not Allow,90.87,630,22.1,40.09,No,High,2.5,Shopping,Monthly,APK from Chrome,0
+136,Allow,Not Allow,Allow,Not Allow,Not Allow,3.6,969,20.4,3.58,No,Low,2.1,Education,Rarely,Play Store,1
+137,Not Allow,Not Allow,Not Allow,Allow,Not Allow,55.93,912,23.3,12.13,Yes,High,2.5,Gaming,Rarely,APK from Chrome,0
+138,Allow,Not Allow,Allow,Not Allow,Allow,48.72,907,25.3,35.97,Yes,Low,2.9,Education,Weekly,APK from Chrome,0
+139,Not Allow,Allow,Allow,Allow,Not Allow,30.05,936,17.9,44.26,No,High,4,Shopping,Weekly,Play Store,0
+140,Allow,Not Allow,Not Allow,Not Allow,Not Allow,74.22,784,15.8,35.01,No,Medium,2.1,Gaming,Weekly,App Store,1
+141,Not Allow,Allow,Allow,Not Allow,Not Allow,90.98,847,28,44.76,No,Low,4.5,Utility,Weekly,APK from Other Apps,0
+142,Allow,Allow,Not Allow,Not Allow,Allow,31.97,958,9.5,38.57,No,Medium,3.5,Shopping,Weekly,App Store,1
+143,Not Allow,Allow,Not Allow,Allow,Allow,23.06,166,20.7,29.19,No,Low,1.4,Utility,Weekly,App Store,1
+144,Not Allow,Not Allow,Allow,Allow,Not Allow,40.39,143,13.7,37.55,No,Low,3.6,Shopping,Monthly,App Store,0
+145,Allow,Allow,Not Allow,Not Allow,Not Allow,99.12,245,11.1,28.28,Yes,Low,2.8,Utility,Monthly,App Store,0
+146,Not Allow,Not Allow,Allow,Allow,Allow,79.26,632,9.7,35.9,No,Low,3.4,Gaming,Monthly,APK from Other Apps,0
+147,Allow,Not Allow,Not Allow,Allow,Allow,25.74,471,21.4,5.73,Yes,High,3.3,Social,Rarely,App Store,1
+148,Allow,Not Allow,Not Allow,Allow,Allow,86.5,257,9.2,29.32,No,Medium,1.9,Utility,Rarely,Play Store,1
+149,Allow,Allow,Not Allow,Allow,Allow,41.53,456,26.2,15.51,No,Low,2.7,Education,Monthly,APK from Other Apps,1
+150,Not Allow,Allow,Allow,Allow,Not Allow,24.83,839,27.9,32.52,Yes,Medium,4.4,Shopping,Monthly,App Store,0
+151,Not Allow,Allow,Allow,Allow,Allow,58.34,97,21.7,3.66,No,High,1.1,Utility,Rarely,App Store,0
+152,Allow,Allow,Not Allow,Allow,Not Allow,3.83,848,6.5,35.94,Yes,High,2.3,Gaming,Weekly,App Store,1
+153,Allow,Not Allow,Not Allow,Not Allow,Not Allow,31.66,551,10.3,11.94,Yes,Medium,3.9,Education,Monthly,APK from Chrome,0
+154,Not Allow,Not Allow,Not Allow,Allow,Not Allow,32.93,999,5.8,12.04,No,Low,4.1,Utility,Monthly,APK from Other Apps,1
+155,Not Allow,Allow,Not Allow,Allow,Not Allow,92.68,358,29.8,46.82,Yes,Low,3.3,Social,Weekly,APK from Chrome,1
+156,Not Allow,Not Allow,Not Allow,Allow,Not Allow,76.34,653,6.9,3.81,No,Low,4.3,Shopping,Rarely,App Store,0
+157,Not Allow,Not Allow,Allow,Not Allow,Not Allow,46.16,614,19.9,29.01,Yes,High,3.7,Social,Monthly,App Store,0
+158,Allow,Not Allow,Not Allow,Not Allow,Not Allow,93.92,626,5.2,32.9,No,Medium,4.2,Social,Rarely,App Store,0
+159,Not Allow,Not Allow,Allow,Allow,Allow,96.16,499,16.1,20.48,No,Medium,4,Social,Weekly,APK from Other Apps,0
+160,Not Allow,Not Allow,Allow,Allow,Allow,19.93,579,9.5,4.69,Yes,Medium,2.6,Gaming,Weekly,App Store,0
+161,Allow,Not Allow,Allow,Not Allow,Allow,86.98,144,26,1.69,No,Medium,3.2,Shopping,Rarely,APK from Chrome,1
+162,Allow,Not Allow,Allow,Allow,Allow,46.72,751,16,3.26,Yes,Low,2.8,Utility,Monthly,App Store,0
+163,Allow,Allow,Allow,Not Allow,Not Allow,9.16,993,14,12.23,Yes,High,4.5,Utility,Rarely,Play Store,1
+164,Allow,Allow,Allow,Not Allow,Allow,89.58,646,10.4,36.79,No,Medium,1.4,Gaming,Monthly,App Store,1
+165,Not Allow,Not Allow,Allow,Not Allow,Allow,4.21,919,9.5,39.52,No,High,4.8,Shopping,Monthly,APK from Other Apps,0
+166,Not Allow,Not Allow,Not Allow,Allow,Allow,71.15,503,11.4,46.19,No,Medium,2.5,Utility,Monthly,App Store,0
+167,Not Allow,Allow,Allow,Not Allow,Not Allow,12.76,257,16.7,38.67,Yes,Low,1.3,Shopping,Weekly,App Store,0
+168,Allow,Allow,Allow,Allow,Allow,97.81,922,7,48.41,Yes,Low,4.5,Gaming,Monthly,App Store,1
+169,Not Allow,Allow,Allow,Allow,Not Allow,84.69,56,22.7,31.48,Yes,Low,1.1,Shopping,Rarely,APK from Other Apps,0
+170,Not Allow,Not Allow,Allow,Allow,Allow,84.97,110,10.7,28.71,Yes,High,3.3,Social,Rarely,Play Store,0
+171,Allow,Not Allow,Not Allow,Not Allow,Not Allow,20.97,927,11.3,32.68,Yes,High,1.4,Social,Weekly,APK from Other Apps,0
+172,Not Allow,Not Allow,Allow,Not Allow,Allow,39.77,493,9.8,11.98,Yes,Low,2.2,Social,Rarely,Play Store,0
+173,Allow,Not Allow,Not Allow,Not Allow,Not Allow,76.42,968,28.7,24.29,No,Medium,3.5,Shopping,Monthly,APK from Chrome,0
+174,Not Allow,Not Allow,Allow,Not Allow,Allow,2.38,982,16.6,27.09,Yes,High,2,Education,Weekly,App Store,0
+175,Allow,Allow,Not Allow,Allow,Not Allow,76.75,76,18.9,21.61,No,Medium,4.9,Social,Monthly,Play Store,1
+176,Not Allow,Not Allow,Not Allow,Allow,Allow,17.84,495,25.6,48.68,No,High,3.8,Education,Rarely,APK from Other Apps,0
+177,Allow,Allow,Allow,Allow,Allow,96.86,706,21,38.57,Yes,High,3.9,Shopping,Monthly,APK from Other Apps,0
+178,Not Allow,Allow,Allow,Not Allow,Allow,40.96,881,14.3,19.4,No,Medium,1.7,Gaming,Monthly,APK from Other Apps,1
+179,Allow,Not Allow,Allow,Not Allow,Allow,47.92,528,20,43.84,Yes,Medium,3.1,Gaming,Rarely,APK from Other Apps,0
+180,Not Allow,Allow,Allow,Allow,Not Allow,47.49,991,26,5.3,Yes,Low,1.5,Shopping,Monthly,APK from Other Apps,0
+181,Not Allow,Allow,Allow,Not Allow,Allow,84.47,505,16.7,40.03,Yes,Medium,1.8,Utility,Rarely,App Store,0
+182,Allow,Allow,Allow,Allow,Not Allow,75.85,573,28.4,31.24,Yes,Low,2.1,Shopping,Monthly,APK from Other Apps,1
+183,Allow,Not Allow,Allow,Not Allow,Not Allow,2.76,269,26.2,29.64,No,Low,4.9,Social,Weekly,Play Store,0
+184,Allow,Allow,Allow,Not Allow,Not Allow,61.33,888,16.5,12.77,Yes,Low,2.4,Shopping,Rarely,App Store,1
+185,Not Allow,Not Allow,Allow,Allow,Allow,43.54,378,17.7,44.88,Yes,Medium,1.6,Social,Rarely,APK from Other Apps,0
+186,Not Allow,Allow,Allow,Allow,Allow,39.41,206,23.9,46.37,Yes,Low,4.6,Education,Monthly,Play Store,1
+187,Not Allow,Not Allow,Not Allow,Allow,Allow,8.43,222,13,36.59,Yes,High,3.4,Social,Weekly,App Store,0
+188,Allow,Allow,Allow,Allow,Allow,33.21,491,27.9,13.93,Yes,Medium,1.4,Education,Monthly,Play Store,0
+189,Not Allow,Not Allow,Allow,Allow,Not Allow,35.2,155,27.5,9.33,Yes,Low,3.6,Education,Weekly,APK from Chrome,0
+190,Not Allow,Allow,Allow,Allow,Not Allow,74.68,760,28.3,3.04,Yes,Low,4.7,Utility,Monthly,APK from Other Apps,1
+191,Not Allow,Not Allow,Allow,Not Allow,Allow,88.89,376,11.4,25.55,Yes,Low,4,Social,Weekly,App Store,1
+192,Allow,Not Allow,Allow,Not Allow,Allow,89.05,950,24.7,30.57,No,Medium,4.9,Utility,Weekly,Play Store,0
+193,Not Allow,Not Allow,Allow,Not Allow,Not Allow,92.46,776,9.3,45.66,No,Low,3.3,Education,Weekly,App Store,1
+194,Not Allow,Allow,Not Allow,Not Allow,Not Allow,37.03,272,15.5,1.48,No,High,3.1,Social,Weekly,App Store,0
+195,Allow,Not Allow,Allow,Not Allow,Not Allow,51.12,562,10.9,26.69,Yes,Low,2.9,Utility,Rarely,APK from Chrome,0
+196,Not Allow,Allow,Not Allow,Allow,Allow,49.95,103,19.7,33.3,Yes,Low,4.1,Social,Rarely,App Store,1
+197,Not Allow,Allow,Allow,Allow,Not Allow,54.13,832,23.4,41.3,Yes,Low,4.1,Education,Monthly,App Store,1
+198,Not Allow,Not Allow,Not Allow,Not Allow,Allow,98.57,83,14.9,37.02,No,Low,3.2,Social,Weekly,APK from Chrome,0
+199,Allow,Allow,Not Allow,Allow,Not Allow,63.18,640,16.5,36.16,Yes,Medium,1.2,Gaming,Rarely,APK from Chrome,1
+200,Not Allow,Allow,Allow,Not Allow,Not Allow,71.05,228,20.2,39.06,No,Low,1.6,Utility,Monthly,APK from Other Apps,0
+201,Not Allow,Not Allow,Allow,Allow,Not Allow,24.65,757,27.7,17.07,No,Low,4.9,Gaming,Monthly,App Store,0
+202,Not Allow,Not Allow,Allow,Not Allow,Allow,43.75,377,19.4,21.92,No,Low,4.9,Education,Rarely,APK from Other Apps,1
+203,Allow,Not Allow,Not Allow,Allow,Allow,60.41,961,8.3,19.09,No,High,4.8,Education,Monthly,App Store,0
+204,Allow,Not Allow,Not Allow,Not Allow,Allow,70.82,634,23.4,8.75,No,Medium,2.5,Education,Weekly,APK from Chrome,1
+205,Allow,Allow,Not Allow,Not Allow,Allow,12.89,576,6.2,33.59,No,Low,1.8,Education,Weekly,APK from Other Apps,1
+206,Allow,Not Allow,Allow,Allow,Allow,59.48,568,5.3,37.72,Yes,High,4.5,Social,Rarely,APK from Other Apps,0
+207,Not Allow,Not Allow,Allow,Not Allow,Not Allow,47.12,846,12.7,45.82,No,Medium,4.5,Shopping,Monthly,App Store,0
+208,Allow,Allow,Not Allow,Allow,Allow,61.47,493,8.6,37.83,Yes,Medium,1.2,Social,Rarely,APK from Other Apps,1
+209,Not Allow,Not Allow,Not Allow,Allow,Allow,44.6,334,7.3,42.69,Yes,Low,3.7,Social,Rarely,App Store,0
+210,Allow,Not Allow,Allow,Not Allow,Not Allow,47.77,226,25.8,23.81,No,Low,2.3,Social,Monthly,APK from Other Apps,1
+211,Not Allow,Not Allow,Not Allow,Allow,Not Allow,5.58,752,26.1,16.96,No,Low,2.9,Gaming,Monthly,APK from Other Apps,1
+212,Not Allow,Allow,Allow,Not Allow,Not Allow,8.93,473,9.3,5.96,Yes,Low,1.3,Gaming,Monthly,App Store,0
+213,Not Allow,Allow,Allow,Not Allow,Allow,3.11,750,23.5,16.72,No,High,1.2,Shopping,Monthly,Play Store,0
+214,Not Allow,Allow,Allow,Not Allow,Allow,61.43,930,27.8,49.12,Yes,Medium,3.4,Utility,Rarely,App Store,0
+215,Allow,Allow,Allow,Allow,Allow,28.13,729,23.1,49.86,Yes,High,1.1,Education,Weekly,App Store,1
+216,Allow,Allow,Not Allow,Not Allow,Allow,77.62,766,15.3,44.3,Yes,Medium,5,Shopping,Weekly,Play Store,1
+217,Not Allow,Allow,Not Allow,Not Allow,Allow,98.78,740,9.2,21.54,No,High,1.6,Utility,Monthly,Play Store,0
+218,Not Allow,Allow,Not Allow,Not Allow,Allow,46.6,139,9.3,6.44,Yes,High,2.7,Gaming,Weekly,App Store,1
+219,Not Allow,Allow,Not Allow,Not Allow,Not Allow,68.52,466,27.9,22.85,No,Low,1.5,Gaming,Rarely,APK from Chrome,0
+220,Not Allow,Allow,Not Allow,Allow,Not Allow,64.37,691,11.1,3.8,No,High,1.5,Utility,Rarely,App Store,0
+221,Not Allow,Not Allow,Allow,Allow,Allow,99.51,400,14.7,2.41,No,High,3.9,Gaming,Monthly,App Store,1
+222,Not Allow,Allow,Not Allow,Allow,Not Allow,43.33,823,26.6,3.06,Yes,Low,4.4,Social,Rarely,APK from Other Apps,0
+223,Not Allow,Not Allow,Not Allow,Allow,Not Allow,85.6,938,16.2,4.97,Yes,High,3,Education,Monthly,APK from Other Apps,1
+224,Not Allow,Allow,Allow,Allow,Not Allow,52.79,649,23,29.34,No,Low,1.4,Utility,Monthly,Play Store,0
+225,Not Allow,Not Allow,Allow,Not Allow,Not Allow,82.76,265,14.1,49.92,Yes,Low,1.9,Shopping,Monthly,Play Store,0
+226,Not Allow,Allow,Allow,Not Allow,Not Allow,7.8,930,14.8,1.99,Yes,Low,2.1,Social,Monthly,APK from Chrome,1
+227,Not Allow,Allow,Allow,Not Allow,Not Allow,75.97,548,23.5,43.06,Yes,Medium,4.8,Utility,Weekly,Play Store,1
+228,Allow,Not Allow,Not Allow,Allow,Allow,6.42,95,25.7,40.16,No,Medium,3.6,Social,Monthly,App Store,0
+229,Not Allow,Allow,Not Allow,Not Allow,Not Allow,2.16,413,19.5,1.51,Yes,High,3.8,Utility,Monthly,App Store,0
+230,Allow,Allow,Not Allow,Allow,Allow,81.89,809,20.4,36.22,Yes,High,1.1,Shopping,Rarely,App Store,1
+231,Not Allow,Allow,Allow,Not Allow,Allow,40.59,501,26.2,6.26,Yes,Medium,3,Education,Weekly,APK from Chrome,1
+232,Not Allow,Allow,Allow,Allow,Allow,18.88,828,11.5,35.2,No,Medium,1.5,Utility,Monthly,APK from Chrome,0
+233,Not Allow,Not Allow,Allow,Allow,Not Allow,81.53,493,11.3,26.18,No,Medium,1.4,Shopping,Monthly,APK from Chrome,1
+234,Allow,Not Allow,Allow,Allow,Allow,67.3,634,17.9,38.92,Yes,Low,3.8,Gaming,Weekly,Play Store,1
+235,Not Allow,Allow,Not Allow,Not Allow,Allow,95.36,307,8.1,32.75,Yes,Low,2.6,Education,Weekly,APK from Other Apps,0
+236,Allow,Not Allow,Not Allow,Allow,Allow,37.26,991,10,1.13,Yes,Medium,4,Gaming,Monthly,APK from Chrome,1
+237,Not Allow,Allow,Allow,Not Allow,Not Allow,6.63,578,18.2,14.99,Yes,High,3.2,Education,Monthly,Play Store,1
+238,Allow,Allow,Allow,Allow,Allow,22.19,937,15,23.34,Yes,High,4.6,Social,Monthly,APK from Chrome,1
+239,Not Allow,Allow,Allow,Allow,Allow,73.97,390,23.6,12.14,Yes,High,1.2,Social,Weekly,APK from Chrome,0
+240,Allow,Not Allow,Not Allow,Not Allow,Allow,90.11,204,6.5,36.43,Yes,Medium,4,Utility,Rarely,App Store,1
+241,Not Allow,Allow,Allow,Allow,Not Allow,74.34,186,19.8,24.92,No,High,4.1,Utility,Rarely,APK from Other Apps,0
+242,Not Allow,Not Allow,Allow,Allow,Allow,12.77,215,24.3,13.23,No,High,4.1,Education,Weekly,Play Store,1
+243,Not Allow,Allow,Not Allow,Allow,Allow,95.45,988,28.8,31.94,No,Medium,4,Utility,Weekly,APK from Chrome,0
+244,Allow,Allow,Not Allow,Not Allow,Allow,28.77,428,8.5,1.77,No,Low,2.6,Utility,Rarely,APK from Other Apps,1
+245,Not Allow,Not Allow,Allow,Not Allow,Allow,31.13,333,20.5,4.04,Yes,High,1.8,Social,Weekly,App Store,0
+246,Allow,Allow,Allow,Not Allow,Allow,30.07,641,20,46.56,No,Low,4.1,Social,Monthly,APK from Other Apps,1
+247,Not Allow,Not Allow,Allow,Not Allow,Not Allow,72.23,281,20.6,37.99,No,High,2.6,Social,Rarely,App Store,0
+248,Allow,Not Allow,Not Allow,Not Allow,Not Allow,31.62,744,22.3,4.35,Yes,Low,4.5,Gaming,Rarely,App Store,1
+249,Not Allow,Allow,Not Allow,Allow,Not Allow,76.32,564,19.4,28.8,Yes,High,4.3,Education,Monthly,APK from Other Apps,1
+250,Not Allow,Not Allow,Not Allow,Allow,Not Allow,34.5,707,15.7,15.21,No,Medium,3.8,Gaming,Monthly,APK from Chrome,1
+251,Not Allow,Not Allow,Not Allow,Allow,Allow,88.43,874,19.6,27.63,No,High,1.4,Education,Monthly,App Store,0
+252,Not Allow,Not Allow,Not Allow,Not Allow,Not Allow,26.69,803,17.2,17.15,No,Medium,3.6,Education,Monthly,Play Store,1
+253,Not Allow,Not Allow,Allow,Not Allow,Allow,71.43,523,26.1,45.04,Yes,Low,1.2,Shopping,Monthly,APK from Other Apps,1
+254,Allow,Not Allow,Not Allow,Not Allow,Not Allow,13.93,776,28.1,14.19,No,High,2.4,Gaming,Monthly,Play Store,1
+255,Allow,Not Allow,Allow,Allow,Not Allow,68.41,567,19.6,24,Yes,Low,4.9,Gaming,Monthly,Play Store,1
+256,Allow,Not Allow,Not Allow,Allow,Not Allow,39,902,15.1,33.57,Yes,Medium,4.6,Education,Weekly,APK from Other Apps,1
+257,Not Allow,Not Allow,Not Allow,Allow,Not Allow,45.72,906,13.3,49.34,Yes,High,3.6,Social,Weekly,App Store,0
+258,Not Allow,Allow,Allow,Not Allow,Allow,18.98,235,24.4,24.8,Yes,High,2.3,Utility,Monthly,APK from Other Apps,1
+259,Not Allow,Not Allow,Allow,Allow,Allow,62.84,528,28.9,44.59,Yes,Medium,2.3,Social,Weekly,APK from Chrome,0
+260,Allow,Not Allow,Allow,Not Allow,Not Allow,11.55,761,6.2,43.2,Yes,Medium,1.9,Shopping,Monthly,APK from Chrome,1
+261,Not Allow,Not Allow,Not Allow,Allow,Allow,26.18,711,11.7,19.92,No,Medium,1.7,Education,Monthly,App Store,1
+262,Allow,Not Allow,Not Allow,Not Allow,Allow,71.65,581,13.1,24.41,No,Low,1.7,Social,Weekly,APK from Chrome,1
+263,Not Allow,Not Allow,Allow,Not Allow,Allow,85.13,490,10.6,15.99,Yes,High,4.9,Utility,Weekly,APK from Chrome,1
+264,Not Allow,Allow,Allow,Allow,Not Allow,21.62,367,7,2.92,No,High,2.7,Social,Monthly,APK from Other Apps,0
+265,Not Allow,Allow,Allow,Allow,Not Allow,5.76,86,15.2,6.09,Yes,High,4.5,Gaming,Monthly,APK from Chrome,1
+266,Not Allow,Allow,Allow,Allow,Allow,29.77,111,25.4,15.12,Yes,High,1.6,Shopping,Weekly,Play Store,1
+267,Not Allow,Allow,Not Allow,Not Allow,Not Allow,91.96,693,7,10.3,No,Medium,1.3,Utility,Weekly,Play Store,0
+268,Not Allow,Allow,Not Allow,Allow,Not Allow,75.13,822,14.8,6.07,No,Low,2.7,Social,Weekly,APK from Chrome,0
+269,Not Allow,Allow,Allow,Not Allow,Allow,86.56,214,29.1,32.74,Yes,Medium,4,Social,Weekly,APK from Other Apps,0
+270,Not Allow,Not Allow,Allow,Not Allow,Not Allow,18.41,138,27.9,29.21,No,Low,1.1,Utility,Rarely,App Store,0
+271,Not Allow,Allow,Not Allow,Allow,Not Allow,6.77,652,13.6,4.86,Yes,High,1.8,Utility,Rarely,APK from Chrome,1
+272,Not Allow,Not Allow,Allow,Allow,Not Allow,2.46,166,9.6,23.08,No,Medium,1.6,Utility,Weekly,APK from Other Apps,0
+273,Allow,Not Allow,Not Allow,Allow,Not Allow,62.47,224,16,49.38,Yes,Low,1.1,Shopping,Rarely,APK from Other Apps,0
+274,Allow,Allow,Allow,Allow,Not Allow,31.71,119,16.9,24.38,No,Low,4.2,Social,Rarely,Play Store,0
+275,Allow,Not Allow,Allow,Not Allow,Not Allow,7.12,345,29.1,1.79,No,Low,2.7,Shopping,Monthly,APK from Chrome,0
+276,Allow,Allow,Not Allow,Not Allow,Allow,47.02,545,7.2,20.75,No,Medium,1,Shopping,Rarely,Play Store,0
+277,Allow,Not Allow,Not Allow,Not Allow,Allow,53.42,808,7.1,16.76,Yes,Medium,2.8,Social,Weekly,APK from Other Apps,1
+278,Not Allow,Not Allow,Allow,Not Allow,Allow,75.95,774,25.3,49.01,No,Low,4.3,Utility,Monthly,APK from Chrome,0
+279,Allow,Allow,Not Allow,Allow,Allow,10.36,563,13.7,11.83,Yes,Low,2.7,Education,Weekly,APK from Chrome,0
+280,Not Allow,Allow,Not Allow,Not Allow,Allow,72.53,606,22.2,33.51,Yes,High,2.8,Utility,Weekly,APK from Other Apps,1
+281,Allow,Allow,Allow,Allow,Allow,9.39,918,9.3,9.86,Yes,High,4,Social,Rarely,APK from Chrome,1
+282,Not Allow,Allow,Allow,Not Allow,Not Allow,82.07,851,17.4,36.65,Yes,Low,3.7,Utility,Monthly,Play Store,1
+283,Allow,Allow,Allow,Not Allow,Allow,79.49,731,5.6,10.54,Yes,Low,4.8,Education,Weekly,APK from Chrome,0
+284,Not Allow,Allow,Not Allow,Not Allow,Allow,15.9,660,13.1,38.67,Yes,High,3.5,Social,Rarely,APK from Other Apps,1
+285,Allow,Not Allow,Allow,Not Allow,Allow,66.48,597,6.5,22.97,Yes,Low,4.7,Shopping,Monthly,APK from Chrome,0
+286,Allow,Allow,Allow,Not Allow,Not Allow,58.85,541,29.3,11.6,Yes,Low,1.3,Shopping,Monthly,App Store,1
+287,Not Allow,Allow,Allow,Allow,Not Allow,93.57,652,13.1,39.51,No,Low,4.3,Gaming,Rarely,APK from Other Apps,0
+288,Not Allow,Not Allow,Not Allow,Allow,Allow,32.31,293,17.9,18.58,Yes,High,3.1,Utility,Monthly,Play Store,1
+289,Not Allow,Allow,Not Allow,Allow,Allow,89.92,398,25.6,15.35,Yes,High,1,Shopping,Weekly,APK from Other Apps,1
+290,Not Allow,Not Allow,Allow,Not Allow,Allow,42.59,173,18,18.91,No,High,3.1,Education,Rarely,APK from Chrome,0
+291,Allow,Not Allow,Not Allow,Allow,Not Allow,17.57,919,26.2,20.2,No,Medium,4.5,Education,Monthly,App Store,0
+292,Allow,Allow,Allow,Not Allow,Allow,8.36,593,6.6,49.69,Yes,Low,1.8,Social,Rarely,APK from Chrome,0
+293,Allow,Not Allow,Not Allow,Not Allow,Allow,38.95,970,29.5,35.28,No,High,4.7,Social,Weekly,App Store,0
+294,Not Allow,Not Allow,Allow,Allow,Not Allow,1.5,591,25.8,41.77,No,Medium,2,Social,Rarely,APK from Other Apps,0
+295,Not Allow,Allow,Allow,Not Allow,Not Allow,57.47,294,25.2,49.92,No,High,4.1,Education,Rarely,APK from Other Apps,0
+296,Not Allow,Not Allow,Not Allow,Allow,Allow,68.59,199,11,40.65,No,Low,2.6,Education,Monthly,APK from Chrome,1
+297,Not Allow,Allow,Not Allow,Allow,Not Allow,33.73,329,18.5,14.71,No,Medium,4.1,Education,Weekly,APK from Other Apps,0
+298,Not Allow,Not Allow,Not Allow,Allow,Allow,68.42,265,29.9,26.79,No,Low,4.8,Education,Monthly,APK from Other Apps,1
+299,Allow,Not Allow,Not Allow,Allow,Not Allow,28.56,988,29.7,10.6,Yes,High,3.4,Utility,Monthly,App Store,1
+300,Allow,Allow,Allow,Allow,Allow,20.87,235,25,20.53,Yes,High,3.4,Social,Monthly,APK from Chrome,0
+301,Allow,Allow,Allow,Not Allow,Not Allow,83.8,778,27.1,16.9,No,Medium,3.6,Social,Weekly,APK from Other Apps,0
+302,Not Allow,Allow,Allow,Allow,Not Allow,24.82,309,26.8,31.6,No,High,3.5,Social,Rarely,App Store,1
+303,Allow,Not Allow,Not Allow,Not Allow,Allow,63.42,653,10.9,26.8,No,High,3,Social,Monthly,APK from Chrome,0
+304,Not Allow,Not Allow,Not Allow,Allow,Not Allow,11.65,361,27.9,10.79,Yes,High,1.1,Education,Weekly,APK from Chrome,0
+305,Allow,Not Allow,Allow,Not Allow,Allow,63.41,605,20.7,31.9,No,High,2.1,Gaming,Monthly,APK from Other Apps,1
+306,Not Allow,Allow,Allow,Allow,Not Allow,58.22,151,25.8,2.38,Yes,Low,2.9,Education,Monthly,App Store,1
+307,Not Allow,Not Allow,Allow,Allow,Not Allow,90.69,525,14.8,18.58,Yes,Medium,1.3,Gaming,Weekly,App Store,0
+308,Allow,Allow,Allow,Not Allow,Allow,50.32,395,22.6,25.18,Yes,Medium,4.5,Shopping,Rarely,App Store,1
+309,Not Allow,Allow,Not Allow,Not Allow,Allow,6.25,856,17.7,37.71,Yes,Medium,3,Utility,Rarely,Play Store,0
+310,Not Allow,Allow,Allow,Allow,Not Allow,35.01,68,17.2,48.51,Yes,Medium,1.4,Education,Rarely,Play Store,1
+311,Not Allow,Allow,Not Allow,Not Allow,Not Allow,47.97,397,28.6,15.11,No,Low,2.4,Education,Monthly,APK from Other Apps,0
+312,Not Allow,Not Allow,Allow,Allow,Allow,82.61,815,5.1,33.56,Yes,Low,1.2,Social,Rarely,App Store,0
+313,Not Allow,Allow,Allow,Not Allow,Not Allow,28.16,861,12.4,32.56,Yes,Low,3.7,Social,Weekly,APK from Chrome,0
+314,Not Allow,Not Allow,Allow,Not Allow,Allow,22.79,816,9.6,9.83,Yes,High,3.5,Utility,Monthly,App Store,1
+315,Not Allow,Allow,Not Allow,Allow,Allow,95.96,449,5.9,48.52,Yes,Medium,2.4,Social,Monthly,App Store,0
+316,Allow,Not Allow,Allow,Allow,Allow,13.08,894,6.5,44.73,Yes,Medium,4.9,Utility,Rarely,Play Store,1
+317,Allow,Allow,Allow,Not Allow,Allow,98.12,749,29,4.04,Yes,Medium,1.8,Education,Monthly,Play Store,0
+318,Not Allow,Allow,Allow,Not Allow,Not Allow,87.99,992,5.3,25.12,Yes,Medium,3.8,Shopping,Rarely,App Store,0
+319,Allow,Allow,Not Allow,Allow,Not Allow,65.65,880,17.5,32.32,No,Low,2.1,Education,Rarely,App Store,0
+320,Allow,Not Allow,Allow,Not Allow,Allow,44.93,196,5.2,22.42,No,Medium,4.3,Education,Monthly,Play Store,0
+321,Allow,Allow,Not Allow,Allow,Allow,7.35,244,13.2,2.88,No,Medium,3.5,Shopping,Rarely,App Store,1
+322,Allow,Allow,Allow,Not Allow,Not Allow,72.65,199,22.9,23.61,No,Low,1.8,Utility,Weekly,APK from Chrome,0
+323,Not Allow,Allow,Not Allow,Not Allow,Allow,62.88,497,26.5,26.1,Yes,Low,4.7,Shopping,Monthly,App Store,1
+324,Allow,Allow,Not Allow,Allow,Allow,46.09,973,18.9,33.38,Yes,Low,4.9,Education,Rarely,Play Store,1
+325,Not Allow,Not Allow,Not Allow,Not Allow,Not Allow,81.42,982,19.1,11.63,No,Low,1.8,Utility,Rarely,App Store,1
+326,Not Allow,Allow,Allow,Allow,Not Allow,73.57,551,5.3,22.21,No,Medium,4.4,Shopping,Weekly,APK from Other Apps,0
+327,Allow,Allow,Allow,Allow,Not Allow,19.31,825,10.1,40.78,No,Medium,3.6,Gaming,Monthly,Play Store,0
+328,Not Allow,Not Allow,Not Allow,Not Allow,Allow,20.97,865,27.9,31.96,Yes,High,4.5,Social,Monthly,APK from Chrome,0
+329,Not Allow,Allow,Allow,Allow,Not Allow,89.39,813,22.8,30.18,No,High,2.4,Utility,Monthly,APK from Chrome,0
+330,Allow,Not Allow,Not Allow,Allow,Allow,18.08,330,15.2,32.98,No,Low,4.1,Utility,Monthly,APK from Other Apps,1
+331,Not Allow,Not Allow,Not Allow,Allow,Allow,99.98,315,6.4,8.94,No,Low,4.4,Utility,Rarely,APK from Other Apps,1
+332,Not Allow,Not Allow,Not Allow,Not Allow,Allow,75.68,423,18,31.49,Yes,High,2.8,Social,Rarely,App Store,1
+333,Not Allow,Allow,Not Allow,Allow,Allow,51.97,601,17.4,3.54,Yes,Medium,4.4,Gaming,Monthly,App Store,0
+334,Not Allow,Not Allow,Allow,Allow,Allow,53.46,926,6.8,12.72,No,Medium,2.5,Social,Rarely,APK from Chrome,0
+335,Not Allow,Not Allow,Allow,Not Allow,Not Allow,3.99,731,5.8,11.18,Yes,High,4.4,Utility,Rarely,APK from Chrome,0
+336,Allow,Not Allow,Allow,Not Allow,Allow,88.02,659,23.5,7.7,No,Medium,2.9,Education,Weekly,APK from Other Apps,1
+337,Not Allow,Not Allow,Not Allow,Allow,Allow,13.23,504,8.4,26.37,Yes,High,1.7,Utility,Rarely,Play Store,1
+338,Not Allow,Allow,Allow,Not Allow,Allow,18.27,252,5.4,41.84,Yes,Medium,3.4,Shopping,Rarely,Play Store,1
+339,Allow,Allow,Allow,Allow,Allow,44.3,76,8.6,42.06,No,High,2.1,Shopping,Weekly,App Store,0
+340,Not Allow,Allow,Not Allow,Not Allow,Allow,20.79,754,28.1,7.61,No,Medium,1.6,Gaming,Rarely,APK from Other Apps,0
+341,Allow,Allow,Allow,Allow,Not Allow,19.83,256,29,1.05,Yes,Medium,2.9,Shopping,Monthly,Play Store,1
+342,Not Allow,Not Allow,Allow,Allow,Not Allow,85.79,346,11.5,34.97,No,High,1.6,Utility,Rarely,Play Store,0
+343,Allow,Allow,Allow,Allow,Not Allow,22.68,321,18.1,10.82,No,Low,4.2,Education,Monthly,APK from Other Apps,0
+344,Not Allow,Not Allow,Allow,Not Allow,Allow,19.82,541,19.9,19.29,No,Low,3.6,Social,Weekly,APK from Other Apps,0
+345,Not Allow,Not Allow,Allow,Not Allow,Not Allow,45.21,231,14.2,6.65,Yes,Low,1.9,Gaming,Monthly,APK from Chrome,0
+346,Not Allow,Not Allow,Allow,Not Allow,Allow,5.22,521,23.6,44.93,No,Medium,2.7,Shopping,Weekly,Play Store,1
+347,Not Allow,Not Allow,Allow,Allow,Not Allow,58.77,339,18.4,10.34,Yes,Low,2.3,Shopping,Monthly,App Store,0
+348,Not Allow,Allow,Not Allow,Allow,Not Allow,76.34,686,5.4,47.57,Yes,Low,4.7,Utility,Rarely,APK from Chrome,1
+349,Allow,Not Allow,Not Allow,Allow,Allow,74.22,915,5.4,20.09,Yes,Low,2,Utility,Rarely,APK from Chrome,1
+350,Not Allow,Allow,Not Allow,Not Allow,Not Allow,55.52,200,11.3,11.96,No,Low,2.4,Gaming,Rarely,Play Store,1

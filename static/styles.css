@@ -1,0 +1,200 @@
+/* General Styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f7f7f7;
+    color: #333;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+/* Header */
+header {
+    background-color: #111;
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 24px;
+}
+
+/* Footer */
+footer {
+    background-color: #111;
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;
+    margin-top: auto; /* Push footer to the bottom */
+    font-size: 14px;
+}
+
+/* Main Content Area */
+.container {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+/* Animated Box */
+.animated-box {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    animation: fadeIn 1s ease-in-out;
+    width: 90%;
+    max-width: 600px;
+}
+
+.animated-box h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #111;
+}
+
+/* Form Styling */
+form h3 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: #444;
+}
+
+form label {
+    display: block;
+    margin-bottom: 5px;
+    color: #666;
+}
+
+form input, form select, form button {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    font-size: 14px;
+}
+
+form button {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+form button:hover {
+    background-color: #555;
+}
+
+/* Modal */
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    overflow: auto;
+}
+
+.modal-content {
+    background-color: #fff;
+    margin: 10% auto;
+    padding: 20px;
+    width: 90%;
+    max-width: 600px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: left;
+}
+
+.modal-content h2, .modal-content h3 {
+    color: #111;
+}
+
+.modal-content p {
+    margin: 10px 0;
+    color: #555;
+}
+
+.close {
+    float: right;
+    font-size: 24px;
+    font-weight: bold;
+    color: #555;
+    cursor: pointer;
+}
+
+.close:hover {
+    color: #111;
+}
+
+/* Animation */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: scale(0.9);
+    }
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 20px;
+    }
+
+    .container {
+        padding: 10px;
+    }
+
+    .animated-box {
+        width: 100%; /* Adjust form width for smaller screens */
+        padding: 15px;
+    }
+
+    form input, form select, form button {
+        font-size: 12px; /* Smaller font size for mobile inputs */
+        padding: 8px;
+    }
+
+    footer {
+        font-size: 12px; /* Smaller footer text for mobile */
+        padding: 10px;
+    }
+}
+
+@media (max-width: 480px) {
+    header h1 {
+        font-size: 18px;
+    }
+
+    .animated-box {
+        padding: 10px;
+    }
+
+    form h3 {
+        font-size: 16px; /* Smaller section titles for very small screens */
+    }
+
+    form input, form select, form button {
+        font-size: 10px; /* Further reduce font size for inputs */
+    }
+
+    form button {
+        padding: 8px;
+    }
+}
